@@ -1,5 +1,8 @@
+<p align="center">
+<img width="200" alt="Texta" src="https://user-images.githubusercontent.com/92443116/190641084-d3a94dcf-3daf-4562-aa60-e619e46d41e3.png">
+</p>
 
-# Texta
+<h1 align="center">TEXTA</h1>
 
 # 
 
