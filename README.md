@@ -22,7 +22,7 @@ Compile and run the `index.c` file using any C programming language compiler
 
 <p align="center"><img alt="select a character" src="./img/02-texture-character.png"></p>
 
-- Viola! :joy:
+- Viola! :blush:
 
 <p align="center"><img alt="output" src="./img/03-output.png"></p>
 
